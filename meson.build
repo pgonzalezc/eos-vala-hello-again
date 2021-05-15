@@ -5,7 +5,7 @@ project('com.github.pgonzalezc.eos-vala-hello-again','vala','c')
 # llas dependencias e instala
 executable(
     meson.project_name(),
-    'src/Aplicacion.vala',
+    'src/Application.vala',
     dependencies: [
         dependency('gtk+-3.0')
     ],
