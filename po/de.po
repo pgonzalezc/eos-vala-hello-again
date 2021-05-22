@@ -1,0 +1,50 @@
+# German translations for com.github.pgonzalezc.eos-vala-hello-again package.
+# Copyright (C) 2021 THE com.github.pgonzalezc.eos-vala-hello-again'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.pgonzalezc.eos-vala-hello-again package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.pgonzalezc.eos-vala-hello-again\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-22 13:43+0200\n"
+"PO-Revision-Date: 2021-05-22 13:43+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: data/hello-again.desktop.in:3
+msgid "_(Hello Again)"
+msgstr ""
+
+#: data/hello-again.desktop.in:4
+msgid "_(Hello World App)"
+msgstr ""
+
+#: data/hello-again.desktop.in:5
+msgid "_(Prueba de la utilización de Vala y Gtk)"
+msgstr ""
+
+#: data/hello-again.desktop.in:8
+msgid "com.github.pgonzalezc.eos-vala-hello-again"
+msgstr ""
+
+#: data/hello-again.desktop.in:11
+msgid "Hello;World;Example;"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:5
+msgid "_(hello-again)"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:6
+msgid "_(hello world improved)"
+msgstr ""
+
+#: data/hello-again.appdata.xml.in:8
+msgid "_(Una mejora sobre la aplicacion de hello world)"
+msgstr ""

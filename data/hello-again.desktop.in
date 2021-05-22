@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=Hello Again
-GenericName=Hello World App
-Comment=Prueba de la utilización de Vala y Gtk
+Name=_(Hello Again)
+GenericName=_(Hello World App)
+Comment=_(Prueba de la utilización de Vala y Gtk)
 Categories=Utility;Education
 Exec=com.github.pgonzalezc.eos-vala-hello-again
 Icon=com.github.pgonzalezc.eos-vala-hello-again
